@@ -1,0 +1,1 @@
+{"essais":6,"letterFound":"r-r-i-","lettersTried":"b-o-r-g-a-e-i-f-","pendustate":"_o_rrier"}

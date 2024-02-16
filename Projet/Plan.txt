@@ -1,0 +1,19 @@
+1ere étape :
+Génère un nombre aléatoire
+Génère un tableau avec les mots du fichier words.txt
+le nombre généré aléatoirement designera le mot dans le tableau
+
+2eme étape :
+le programme va révéler 'n' lettres aléatoires du mot, 'n' correspond à 'len(word) / 2 - 1'
+le programme va prendre une lettre ou un mot en input
+si la lettre n'est pas présente dans le mot, retourne un message et le nombre de tentative baisse (10>9>8 etc)
+si la lettre est présente, révèle toutes les lettres correspondantes dans le mot
+si le mot input est correcte, la partie est gagnée
+si le mot input est incorrecte, retourne un message et le nombre de tentative baisse de 2 (10>8>6 etc)
+le programme boucle jusqu'a ce que le mot soit trouvé ou que le nombre de tentatives tombe à 0
+
+3eme étape :
+Affiche le pendu en fonction du nombre de tentatives restantes
+Affiche les lettres déjà proposées
+Affiche le mot avec les lettres déjà trouvées
+Affiche le nombre de tentatives restantes
